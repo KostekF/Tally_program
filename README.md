@@ -2,7 +2,10 @@
 Tally Program - task from subreddit dailyprogrammer
 
 [2018 - 05 - 14] Challenge #361[Easy] Tally Program 
-from https://www.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/
+from
+https://www.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/
+
+
 Description:
 5 Friends (let's call them a, b, c, d and e) are playing a game and need to keep track of the scores.
 Each time someone scores a point, the letter of his name is typed in lowercase. 
